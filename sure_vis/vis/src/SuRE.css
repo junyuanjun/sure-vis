@@ -1,0 +1,16 @@
+.tab-text {
+    font-size: small;
+}
+
+p{
+    font-size: small;
+}
+
+.false_class path{
+    stroke:black;
+    stroke-width:.5;
+}
+
+.legend_rect {
+    text-anchor: start;
+}

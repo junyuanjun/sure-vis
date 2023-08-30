@@ -1,0 +1,44 @@
+text {
+    font-size: 12px;
+}
+
+.aligned-tree-container {
+    max-height: 600px;
+    max-width: 950px;
+    overflow: auto;
+}
+
+.node_mask {
+    fill: white;
+    stroke: none;
+    fill-opacity: 0;
+    stroke-width: 1px;
+}
+
+.lattice_cond {
+    text-anchor: middle;
+}
+
+.lattice_link {
+    stroke-width: .8;
+    stroke-opacity: .3;
+}
+
+.lattice_selected {
+    stroke-width: 1.5;
+    stroke-opacity: 0.9;
+}
+
+.lattice_highlight {
+    stroke-width: 1.5;
+    stroke-opacity: 0.9;
+}
+
+.lattice_node > text {
+    /*visibility: hidden;*/
+    font-size: 10px;
+}
+
+.lattice_conf_mat {
+    stroke: none;
+}
