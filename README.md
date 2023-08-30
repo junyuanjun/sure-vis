@@ -1,2 +1,4 @@
-# pysure
-Python Library for SuRE
+# sure_vis
+Python library for surrogate rule visualization and exploration. 
+
+
